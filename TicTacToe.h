@@ -2,6 +2,7 @@
 #define TICTAC
 #include <iostream>
 #include <vector>
+#include <string>
 
 /*
 Dawson Voth

@@ -66,7 +66,6 @@ void Board::GetPLayerChoice(){
             std::cout<<"Please enter a 1,2, or 3: ";
         }
     }
-    std::cout<<"Enter 'O' or 'X': ";
     good_input=false;
     while(!good_input){
         std::string val;

@@ -1,0 +1,64 @@
+Tic Tac Toe
+To play enter the alterate turns and, enter the row and column you want to play in,
+and then enter either a 'O' or 'X' depending what player you are.
+The game will end after 9 turns, make sure you don't play in a spot already used.
+
+ ⬜️  ⬜️  ⬜️ 
+ ⬜️  ⬜️  ⬜️ 
+ ⬜️  ⬜️  ⬜️ 
+Enter Row: 1
+Enter Column: 1
+Please enter a capital letter 'O' or 'X': X
+ ❌  ⬜️  ⬜️ 
+ ⬜️  ⬜️  ⬜️ 
+ ⬜️  ⬜️  ⬜️ 
+Enter Row: 2
+Enter Column: 2
+Please enter a capital letter 'O' or 'X': O
+ ❌  ⬜️  ⬜️ 
+ ⬜️  ⭕️  ⬜️ 
+ ⬜️  ⬜️  ⬜️ 
+Enter Row: 1
+Enter Column: 3
+Please enter a capital letter 'O' or 'X': X
+ ❌  ⬜️  ❌ 
+ ⬜️  ⭕️  ⬜️ 
+ ⬜️  ⬜️  ⬜️ 
+Enter Row: 1
+Enter Column: 2
+Please enter a capital letter 'O' or 'X': O
+ ❌  ⭕️  ❌ 
+ ⬜️  ⭕️  ⬜️ 
+ ⬜️  ⬜️  ⬜️ 
+Enter Row: 3
+Enter Column: 2
+Please enter a capital letter 'O' or 'X': X
+ ❌  ⭕️  ❌ 
+ ⬜️  ⭕️  ⬜️ 
+ ⬜️  ❌  ⬜️ 
+Enter Row: 2
+Enter Column: 1
+Please enter a capital letter 'O' or 'X': O
+ ❌  ⭕️  ❌ 
+ ⭕️  ⭕️  ⬜️ 
+ ⬜️  ❌  ⬜️ 
+Enter Row: 2
+Enter Column: 3
+Please enter a capital letter 'O' or 'X': X
+ ❌  ⭕️  ❌ 
+ ⭕️  ⭕️  ❌ 
+ ⬜️  ❌  ⬜️ 
+Enter Row: 3
+Enter Column: 3
+Please enter a capital letter 'O' or 'X': O
+ ❌  ⭕️  ❌ 
+ ⭕️  ⭕️  ❌ 
+ ⬜️  ❌  ⭕️ 
+Enter Row: 3
+Enter Column: 1
+Please enter a capital letter 'O' or 'X': X
+ ❌  ⭕️  ❌ 
+ ⭕️  ⭕️  ❌ 
+ ❌  ❌  ⭕️ 
+
+GAME OVERDawsons-MacBook-Pro:PE4 dawsonvoth$
